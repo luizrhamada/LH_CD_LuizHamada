@@ -6,7 +6,7 @@ Este projeto teve como objetivo criar um modelo preditivo através de técnicas 
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 48894 entries, 0 to 48893
 Data columns (total 16 columns):
- #   Column                         Non-Null Count  Dtype  
+     Column                         Non-Null Count  Dtype  
 ---  ------                         --------------  -----  
  0   id                             48894 non-null  int64  
  1   nome                           48878 non-null  object 
